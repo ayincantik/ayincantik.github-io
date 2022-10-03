@@ -24,7 +24,7 @@ $(document).ready(function() {
     "https://cdn.cloudyin.my.id/IMG-20220131-WA0024.jpg",
     "https://cdn.cloudyin.my.id/DSC08723.JPG",
     "https://cdn.cloudyin.my.id/DSC08032.JPG",
-    "https://cdn.cloudyin.my.id/IMG_8248.JPG",
+    "https://cdn.cloudyin.my.id/DSC08032.JPG",
     "https://cdn.cloudyin.my.id/IMG_8305.JPG",
     "https://cdn.cloudyin.my.id/IMG_7316.JPG",
     "https://cdn.cloudyin.my.id/ayins.png",
