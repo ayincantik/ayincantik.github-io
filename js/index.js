@@ -5,7 +5,7 @@ $(document).ready(function() {
   var cols = 6; //change this also in css
   var staggerTime = 150;
 
-  var urls = [
+var urls = [
     "https://ethereal.urisuzy.com/img/ayin.jpg",
     "https://cdn.cloudyin.my.id/IMG_20220806_104011.jpg",
     "https://cdn.cloudyin.my.id/IMG_20220804_091313.jpg",
@@ -24,7 +24,7 @@ $(document).ready(function() {
     "https://cdn.cloudyin.my.id/IMG-20220131-WA0024.jpg",
     "https://cdn.cloudyin.my.id/DSC08723.JPG",
     "https://cdn.cloudyin.my.id/DSC08032.JPG",
-    "https://cdn.cloudyin.my.id/DSC08032.JPG",
+    "https://cdn.cloudyin.my.id/DSC08708.JPG",
     "https://cdn.cloudyin.my.id/IMG_8305.JPG",
     "https://cdn.cloudyin.my.id/IMG_7316.JPG",
     "https://cdn.cloudyin.my.id/ayins.png",
